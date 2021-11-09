@@ -1,0 +1,31 @@
+{
+  "name": "puppeeter1",
+  "version": "1.0.0",
+  "description": "puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidthebest/jsaqa-Puppeteer1.git"
+  },
+  "keywords": [
+    "pup1"
+  ],
+  "author": "Alexander Mizyukin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidthebest/jsaqa-Puppeteer1/issues"
+  },
+  "homepage": "https://github.com/aidthebest/jsaqa-Puppeteer1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3",
+    "eslint": "^8.2.0",
+    "expect-playwright": "^0.7.2",
+    "jest": "^27.3.1",
+    "jest-playwright-preset": "^1.7.0",
+    "playwright": "^1.16.3",
+    "prettier": "^2.4.1"
+  }
+}
